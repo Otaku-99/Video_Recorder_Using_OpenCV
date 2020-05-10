@@ -32,7 +32,6 @@ def get_dims(cap, res='1080p'):
 
 VIDEO_TYPE = {
     'avi': cv2.VideoWriter_fourcc(*'XVID'),
-    # 'mp4': cv2.VideoWriter_fourcc(*'H264'),
     'mp4': cv2.VideoWriter_fourcc(*'XVID'),
 }
 
