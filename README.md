@@ -7,3 +7,5 @@
   1. .avi
   2. .mp4
 * This is a basic way to record video.  
+
+# You can also visit : https://otaku-99.github.io/Video_Recorder_Using_OpenCV/
